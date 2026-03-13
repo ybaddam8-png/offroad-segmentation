@@ -1,0 +1,10 @@
+*
+!.gitignore
+!scripts/
+!scripts/**
+!segformer_output/evaluation_metrics.txt
+!segformer_output/per_class_iou.png
+!segformer_output/training_curves.png
+!segformer_output/test_results/
+!segformer_output/test_results/test_evaluation_metrics.txt
+!segformer_output/test_results/test_per_class_iou.png
